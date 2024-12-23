@@ -8,7 +8,7 @@ Discount Safety Gear's redesigned website offers enhanced navigation, streamline
 
 The **Discount Safety Gear** website is a specialized eCommerce platform designed to offer a vast range of personal protective equipment (PPE) and safety supplies. Built on the **BigCommerce** platform, this site provides customers with high-quality safety products, from head protection to footwear, while delivering a streamlined and secure shopping experience. The platform features advanced navigation, product filtering, mobile optimization, and secure payment gateways, ensuring customers can shop for safety gear easily across any device.
 
-This project caters to individuals and businesses needing reliable PPE, integrating essential eCommerce functionality such as bulk ordering, detailed product descriptions, and a fast, user-friendly design.
+This project caters to individuals and businesses needing reliable PPE, integrating essential eCommerce functionality such as bulk ordering, detailed product descriptions and a fast, user-friendly design.
 
 ![Artboard 3 (16)](https://github.com/user-attachments/assets/70f3add5-06f1-495c-99d1-c176b2a6850b)
 
@@ -46,7 +46,7 @@ This project caters to individuals and businesses needing reliable PPE, integrat
 
 ## 👨‍💻 About the Developer
 
-Hello, I’m **Sajid Jamil**, an experienced **BigCommerce developer** passionate about creating high-performing, scalable eCommerce platforms. The **Discount Safety Gear** project demonstrates my ability to develop feature-rich solutions that enhance the customer journey while meeting business objectives. From secure payments to bulk ordering functionality, I focus on delivering eCommerce experiences that increase customer satisfaction and drive business growth.
+Hello, I’m **Sajid Jamil**, an experienced **BigCommerce developer** passionate about creating high-performing, scalable eCommerce platforms. The **Discount Safety Gear** project demonstrates my ability to develop feature-rich solutions that enhance the customer journey while meeting business objectives. From secure payments to bulk ordering functionality I focus on delivering eCommerce experiences that increase customer satisfaction and drive business growth.
 
 If you're looking to build or optimize an eCommerce platform on **BigCommerce**, reach out to me for a consultation and collaboration.
 
